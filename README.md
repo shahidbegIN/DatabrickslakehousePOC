@@ -55,4 +55,3 @@ This Terraform project provisions core resources for a Lakehouse on Azure in **E
 - (Optional) Configure **Unity Catalog** at account level and set storage root in ADLS.
 
 ---
-**Shahid**: If you prefer the README in **Hindi**, I can generate that version too. 😊
